@@ -18,7 +18,7 @@ function App() {
         >
           Learn React
         </a>
-        <p>Hi There! how are you doing? This is dileep. Are you doing great?</p>
+        <p>Hi There! how are you doing? This is dileep. Are you doing great? Try to deploy in AWS</p>
       </header>
     </div>
   );
